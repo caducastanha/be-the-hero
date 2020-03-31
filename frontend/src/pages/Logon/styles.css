@@ -6,7 +6,7 @@
 
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
 }
 
 .logon-container section.form {
@@ -19,7 +19,7 @@
     margin-top: 100px;
 }
 
-.logon-container section.form form h1{
+.logon-container section.form form h1 {
     font-size: 32px;
     margin-bottom: 32px;
 }
