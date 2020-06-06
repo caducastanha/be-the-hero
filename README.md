@@ -37,3 +37,7 @@
    
 - ### Mobile 
 	 **Aplicativo mobile em React-Native para os usuários entrarem em contato com as ONGs e fazer suas doações**
+
+<h1 align="center">
+    <img alt="Be the Hero" src="https://github.com/caducastanha/be-the-hero/blob/master/frontend/src/assets/banner.svg?raw=true"  width="400px" style="border-radius:20px;"/>
+</h1>
