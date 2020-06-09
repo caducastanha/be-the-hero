@@ -10,6 +10,9 @@
   <a href="https://github.com/caducastanha" target="_blank">
     <img alt="Made by Cadu Castanha" src="https://img.shields.io/badge/made%20by-caducastanha-informational">
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/caducastanha" target="_blank" >
     <img alt="Github - Cadu Castanha" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github">
   </a>
@@ -28,7 +31,7 @@
   </a>
 </p>
 
-## Projeto
+## :rocket: Projeto
 - ### Backend 
 	 **API express com sqlite3 para comunicação com o frontend web e mobile**
   
@@ -41,3 +44,6 @@
 <h1 align="center">
     <img alt="Be the Hero" src="https://github.com/caducastanha/be-the-hero/blob/master/frontend/src/assets/banner.svg?raw=true"  width="400px" style="border-radius:20px;"/>
 </h1>
+
+## :memo: License
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
